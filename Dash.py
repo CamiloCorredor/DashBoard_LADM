@@ -102,6 +102,8 @@ where GIT.dispname = 'Grupo civil' and D.fraccion_derecho = 1"""
 cursor.execute(query)
 result.append(cursor.fetchall())
 
+##Texto de prueba
+
 ##Predios con (Público) Baldío y FMI NOT NULL
 
 result = []
