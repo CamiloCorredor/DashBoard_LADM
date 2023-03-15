@@ -1,7 +1,7 @@
 
 ##Clasificación de predios UAF 
 
-area = 25
+area = 129.6417
 
 if area >= float(13.3) and area <= float(14.5578):
     print(f'Asignación: UAF 1')
